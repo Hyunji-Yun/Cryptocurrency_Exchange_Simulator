@@ -19,11 +19,8 @@ This application is a simple cryptocurrency trading tool that uses Streamlit and
 ## Dependency
 
 - Streamlit
-
 - Plotly
-
 - yfinance
-
 - Python
 
 ## Running the Application
