@@ -2,6 +2,8 @@
 
 This application is a simple cryptocurrency trading tool that uses Streamlit and Plotly to visualize the price of selected cryptocurrencies and simulate trading. Users can buy and sell cryptocurrencies using an initial virtual balance of $1,000,000 USD. The app uses Yahoo Finance data to provide real-time price updates and track users' profit/loss based on their trades.
 
+![](./Cryptocurrency_Exchange_Simulator/result.png)
+
 ## Features
 
 - Cryptocurrency Selection: Users can select from DOGE, BTC, or ETH to view price trends and make trades.
